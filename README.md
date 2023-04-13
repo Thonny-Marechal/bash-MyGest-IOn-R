@@ -9,7 +9,7 @@ L'objectif est donc de pouvoir gagner du temps pour la gestion de son parc infor
 
 ## Commencer lancer le projet ?
 
-Pour lancer le projet, il faut souplement télécharger le dossier que j'ai publié dans mon GitHub et ensuite, il vous suffit d'aller directement dans le dossier myGest_IOnR via le terminal et ainsi l'exécuter avec la commande ./myGestIOnR.sh
+Pour lancer le projet, il faut souplement télécharger le dossier que j'ai publié dans mon GitHub et ensuite, il vous suffit d'aller directement dans le dossier myGest_IOnR via le terminal et ainsi l'exécuter avec la commande : ./myGestIOnR.sh
 
 
 ### Description
