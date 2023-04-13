@@ -1,0 +1,4 @@
+id	libelle	id	nom	adMAC	adIP	CIDR	idT
+1	Machine	1	pc1	10:01:20:02:30:03	192.168.16.16	24	1
+2	Switch	2	sw01	40:04:50:05:60:06	192.168.16.101	24	2
+3	Serveur	3	svr01	07:70:08:80:09:90	192.168.16.201	24	3
