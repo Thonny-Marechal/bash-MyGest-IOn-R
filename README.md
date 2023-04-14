@@ -14,6 +14,8 @@ Pour lancer le projet, il faut souplement télécharger le dossier que j'ai publ
 
 Je vais vous présenter les fonctionnalités du programme myGestIOnR.
 
+![1](https://user-images.githubusercontent.com/128786765/231970083-e44d2aa9-f842-48d6-a592-4d35a6404c96.png)
+
 Les choix durant la partie installation :
 
     • Création d'une base de données avec le nom de BDD de votre choix
@@ -21,6 +23,9 @@ Les choix durant la partie installation :
     • Création d'un utilisateur SQL si vous le souhaitez
 
     • Message qui demande si vous êtes un serveur ou une machine
+
+![2](https://user-images.githubusercontent.com/128786765/231970051-fdbe01a4-f6a7-45dc-8862-844853bb9535.png)
+
 
 Les choix possibles dans gestion du parc : 
 
@@ -31,12 +36,19 @@ Les choix possibles dans gestion du parc :
       - Masque
       - Type  ( machine, switch, serveur)
       
+![consulter les données](https://user-images.githubusercontent.com/128786765/231969705-9eb708b4-e10d-40ca-bc4b-d0d0eb954834.png)
+      
     • Ajouter des données de la base de données
 
+![ajouter des données](https://user-images.githubusercontent.com/128786765/231969749-4bd582a8-30cc-4e54-827d-3af84785b2f2.png)
+
     • Supprimer des données de la base de données
+    
+![supprimer](https://user-images.githubusercontent.com/128786765/231969792-e8b56b32-1d98-4aa0-806c-c571fbfb64ae.png)
 
     • Modifier des données de la base de données
 
+![supprimer](https://user-images.githubusercontent.com/128786765/231969823-4b4bd8fe-852f-4606-ab12-5d3309ae423e.png)
 
 Les outils possibles dans Outils réseau : 
 
