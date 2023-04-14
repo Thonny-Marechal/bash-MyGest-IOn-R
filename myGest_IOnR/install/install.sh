@@ -3,6 +3,7 @@ echo "Installation des éléments essentiels pour le programme ..."
 
 sudo apt update -y > /dev/null 2> /dev/null
 sudo apt install lolcat dnsutils nmap figlet -y > /dev/null 2> /dev/null
+mkdir myGest_IOnR
 
 while true; do
 echo "Quel nom voulez-vous pour la base de données ? "
